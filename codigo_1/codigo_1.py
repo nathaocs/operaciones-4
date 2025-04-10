@@ -1,11 +1,11 @@
 # Estudiante: corrige este código y haz un pull request con la versión corregida.
+lista = [3, 7, 9, 2]
+
 def buscar_elemento(lista, objetivo):
-    for i in lista:
-        if i == objetivo:
+    for i in range(len(lista)): 
+        if lista[i] == objetivo:
             print("Elemento encontrado en la posición", i)
             return True
-        else:
-            return False
+    return False 
 
-lista = [3, 7, 9, 2]
 print(buscar_elemento(lista, 9))
