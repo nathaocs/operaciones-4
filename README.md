@@ -1,6 +1,6 @@
 # README.md
 
-# Evaluación Bimestral - Corrección de Código
+# Recuperción
 
 ## Objetivo
 Este repositorio contiene 8 carpetas con archivos de código erróneo o incompleto. Cada estudiante recibirá un número del 1 al 8 (según la lista de asignación) y deberá corregir el código que le corresponda.
